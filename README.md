@@ -1,5 +1,5 @@
-## Hi 🙋
-### I am a Web developer 🕸️ you would catch-up me making websites and contributing to open-source
+## Hi 🙋 I am a Web developer 🕸️
+### You will catch-up me making websites and contributing to open-source
  
 - ### 🔭 I explore and experiement with web developing technologies like
   - HTML
