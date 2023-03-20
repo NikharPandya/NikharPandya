@@ -6,7 +6,7 @@
   - CSS
   - JavaScript
   - Node.js
-  - Vue.js
+  - Next.js
   - React.js
   - WordPress Themes and Plugins
 
