@@ -1,6 +1,6 @@
 ## Hi 🙋 I am a Web developer 🕸️
 ### You will catch me making websites and contributing to open-source
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikharPandya&theme=dark)](https://git.io/streak-stats)
+
  
 - ### 🔭 I explore and experiement with web developing technologies like
   - HTML
